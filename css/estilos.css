@@ -1,33 +1,12 @@
-/* carrousel */
+
 .logo {
     width: 10em;
 }
 
-h1{
-    font-family: Arial, Helvetica, sans-serif;
-    color:white;
-}
+.h{
 
-.carousel-item p {
-    font-family: Arial, Helvetica, sans-serif; 
-    color:white;
 }
-
-#carouselExampleSlidesOnly { 
-    background-image: url(../imagenes/header.jpg);
-}
-
-.carousel-item h1 {
-    width: 100%;
-    text-align: center;
-}
-
-.carousel-inner p {
-    width: 100%;
-    text-align: center;
-}
-
-/* cards */
+/*cards
 .container {
     margin: 5%;
 }
@@ -49,9 +28,8 @@ h1{
     padding: 5%;
 }
 
-.container-img img {
-    /*justify-content: center;*/
-}
+Estos valores no los leé
+ 
 
 .container-title {
    
@@ -86,4 +64,4 @@ h1{
     justify-content: center;
     flex-direction: column;
     padding: 5%; 
-}
+} 
